@@ -1,9 +1,3 @@
-'''
-Menbre du groupe:
-El Hadji Makhtar FAYE
-Lionel Andre Pascal BARRA
-Massamba THIOYE
-'''
 import customtkinter
 import os
 from PIL import Image
